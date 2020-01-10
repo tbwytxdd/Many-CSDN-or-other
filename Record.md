@@ -27,6 +27,8 @@
 + [26、码云开源](https://gitee.com/explore)
 + [27、mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署](https://github.com/macrozheng/mall)
 + [28、欧阳思海 的 CSDN](https://blog.csdn.net/sihai12345/article/details/80458763)
++ [29、创客公元(nginx) 的 CSDN](https://blog.csdn.net/weixin_37264997/article/details/84525444)
+
 
 + [============================================================================]()
 + [1、爬虫相关内容](https://www.zhihu.com/question/31427895)
